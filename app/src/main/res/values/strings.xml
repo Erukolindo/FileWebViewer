@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FileWebViewer</string>
+    <string name="open_html_file">Open HTML File</string>
+    <string name="toggle_console">Toggle Console</string>
+    <string name="export_logs">Export Logs</string>
+    <string name="open_downloads_folder">Open Downloads Folder</string>
+    <string name="info">Info</string>
+</resources>
